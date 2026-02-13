@@ -1,7 +1,7 @@
 # 👋 Hi! I’m Chirayu Dudhade 
 A Data and Business Analyst with a Master’s in Business Analytics from UTS. I specialize in turning complex data into actionable insights using Power BI, SQL, and Excel, helping businesses optimize operations, detect revenue leakage, and make data-driven decisions.<br><br>I’m passionate about building interactive dashboards, analyzing customer behavior, and translating analytics into real-world business strategies. Always curious, I enjoy exploring new datasets, testing advanced models, and sharing insights that make a measurable impact.<br><br>When I’m not wrangling data, you’ll find me experimenting with visualization techniques, discovering ways to make reports more intuitive, or learning the latest in BI tools and analytics methods.
 
-
+---
 
 ## 💼 Projects
 
