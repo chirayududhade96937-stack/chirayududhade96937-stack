@@ -6,16 +6,16 @@ A Data and Business Analyst with a Master’s in Business Analytics from UTS. I 
 ## 💼 Projects
 
 * [Project Horizon](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/1#issue-3935021663): From Operational Friction to a $9.45M Target – Power BI | DAX | Strategic Analytics
-End-to-end retail growth audit uncovering $610K in operational leakage and designing a loyalty-led roadmap to scale retained revenue from $7.69M to $9.45M.
+End-to-end retail growth audit uncovering $610K in operational leakage and designing a loyalty-led roadmap to scale retained revenue from $7.69M to $9.45M, translating analytical insights into executive-ready growth strategy.
 
 * [Fuelling the Future](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/3#issue-3935026470): Australia Petroleum Export Forecasting – Tableau + Excel | Scenario-Based Forecasting
-Analysed 1988–2024 Australian energy trade data and forecasted petroleum exports (2025–2029) across four geopolitical scenarios to support policy and infrastructure planning.
+Examined 1988–2024 Australian energy trade data and forecasted petroleum exports (2025–2029) across four geopolitical scenarios to support policy evaluation and long-term infrastructure planning.
 
 * [Loan Default Risk Prediction](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/4#issue-3935028202) – Python + Logistic Regression | Predictive Modeling
-Built an interpretable credit-risk model using SMOTE and RFE, achieving ~62% recall on high-risk borrowers while maintaining regulatory-friendly transparency.
+Built an interpretable credit-risk model using SMOTE and RFE, achieving ~62% recall on high-risk borrowers while maintaining regulatory-friendly transparency and model explainability.
 
 * [Retail Sales & Operations Performance Analysis](https://github.com/chirayududhade96937-stack/chirayududhade96937-stack/issues/2#issue-3935024534) – Power BI | KPI & Trend Analytics
-Analysed end-to-end retail transaction data to uncover demand seasonality, inventory mismatches, and margin leakage, enabling data-driven decisions across pricing, stock planning, and workforce allocation.
+Evaluated end-to-end retail transaction data to uncover demand seasonality, inventory mismatches, and margin leakage, enabling data-driven decisions across pricing, stock planning, and workforce allocation while reducing operational blind spots across key retail KPIs.
 
 
 
